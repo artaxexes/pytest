@@ -1,2 +1,2 @@
 # pytesting
-doctest, unittest and pytest basics tests
+doctest, unittest, pytest and nose basics tests
