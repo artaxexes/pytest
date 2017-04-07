@@ -1,3 +1,9 @@
+PS: the two lines below are required to run py.test in this file
+>>> import sys, os
+>>> sys.path.append(os.getcwd())
+
+
+
 >>> from pycode import pyfunc
 
 >>> pyfunc('Guido van Rossum','Python')
